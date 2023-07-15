@@ -1,6 +1,6 @@
-# Deep Learning Paper Implementations
+# Deep Learning Paper Implementation
 
-This repository aims to implement deep learning models that are accpeted in the top-conferences.
+This repository aims to implement deep learning models that are accepted at top conferences.
 
 ## 1. Computer Vision
 
