@@ -1,7 +1,7 @@
 # How to use GPU with Lambda lab.
 GCP나 Amazon 등에서 gpu 인스턴스를 제공하고 있지만, 학생이 사용하기에는 너무 비싼 느낌이 있다.
 
-우연히 tensorflow korea에서  lambda lab이 싸게 GPU instance를 제공한다는 것을 알게되어서, 사이드 프로젝트를 위한 
+우연히 tensorflow korea에서  lambda lab이 싸게 GPU instance를 제공한다는 것을 알게되어서, 사이드 프로젝트를 위한 GPU서버로 선택하였다.
 
 ## Create Instance (인스턴스 생성)
 GPU를 사용하기 위해서는 instance를 생성해야 한다.
